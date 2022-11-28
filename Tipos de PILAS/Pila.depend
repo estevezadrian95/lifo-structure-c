@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1532694630 source:c:\users\adria\desktop\pila\main.c
+	"Funciones_Pila.h"
+	<stdio.h>
+	<stdlib.h>
+
+1532698130 c:\users\adria\desktop\pila\funciones_pila.h
+

@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1514140574 source:c:\users\adria\desktop\pila circular\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1532453504 source:c:\users\adria\desktop\pila circular\f_pila_circular.c
+	<stdio.h>
+	<stdlib.h>
+	"F_Pila_Circular.h"
+
+1532453454 c:\users\adria\desktop\pila circular\f_pila_circular.h
+
